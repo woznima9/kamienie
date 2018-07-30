@@ -22,7 +22,7 @@
 
   <servlet-mapping>
     <servlet-name>dodaj</servlet-name>
-    <url-pattern>/dodajLiczby</url-pattern>
+    <url-pattern>/dodaj</url-pattern>
   </servlet-mapping>
 
   <servlet-mapping>

@@ -3,8 +3,8 @@
 
     </head>
     <body>
-        <h2>Hello SDA! </h2>
-         <form action="/dodajLiczby" method="post">
+        <h2>Startuje index.jsp</h2>
+         <form action="/dodaj" method="post">
               Liczba 1:<br>
               <input type="text" name="p1" ><br>
               Liczba 2:<br>
