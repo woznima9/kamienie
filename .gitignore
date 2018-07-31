@@ -15,3 +15,6 @@ out/
 # Maven
 log/
 target/
+
+# Moje dokumentacje
+mw-doc/
